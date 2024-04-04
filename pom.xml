@@ -97,7 +97,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://16.170.234.249:8081/repository/tesla-ci/</url>
+	      <url>http://http://13.51.234.68:8081/repository/test-tesla/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
